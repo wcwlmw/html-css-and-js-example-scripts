@@ -1,0 +1,9 @@
+/*this is how to make a note*/
+hr.green {
+  border: 1px solid rgb(0,100,0);
+  border-radius: 1px;
+}/*how to change the color of a border (<hr>)*/
+hr.blue {
+  border: 1px solid rgb(25,25,112);
+  border-radius: 1px;
+}
